@@ -1,0 +1,204 @@
+.root {
+    -fx-background-color: #1a1a1a;
+}
+
+.label {
+    -fx-text-fill: inherit;
+}
+
+.button {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.button:hover {
+    -fx-background-color: #404040;
+}
+
+.text-field {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.text-area {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.table-view {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.table-view .column-header {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.table-view .table-cell {
+    -fx-border-color: inherit;
+}
+
+.table-row-cell {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: inherit;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: inherit;
+}
+
+.combo-box {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.combo-box .list-cell {
+    -fx-background-color: inherit;
+}
+
+.combo-box .list-view {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.combo-box .list-cell:hover {
+    -fx-background-color: inherit;
+}
+
+.radio-button {
+    -fx-text-fill: #e0e0e0;
+}
+
+.check-box {
+    -fx-text-fill: #e0e0e0;
+}
+
+.menu-bar {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.menu {
+    -fx-background-color: inherit;
+}
+
+.menu-item {
+    -fx-background-color: inherit;
+}
+
+.menu-item:hover {
+    -fx-background-color: inherit;
+}
+
+.scroll-bar {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.scroll-bar .thumb {
+    -fx-background-color: inherit;
+}
+
+.scroll-bar .thumb:hover {
+    -fx-background-color: inherit;
+}
+
+.tooltip {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.alert {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.alert .header-panel {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.alert .content {
+    -fx-text-fill: #e0e0e0;
+}
+
+.dialog-pane {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.dialog-pane .header-panel {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.dialog-pane .content {
+    -fx-text-fill: #e0e0e0;
+}
+
+/* 添加一些额外的样式 */
+.vbox, .hbox, .border-pane, .stack-pane {
+    -fx-background-color: #1a1a1a;
+}
+
+.split-pane {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.split-pane-divider {
+    -fx-background-color: inherit;
+}
+
+.titled-pane {
+    -fx-border-color: inherit;
+}
+
+.titled-pane > .title {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.tab-pane {
+    -fx-background-color: inherit;
+}
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-background-color: inherit;
+}
+
+.tab {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.tab:selected {
+    -fx-background-color: inherit;
+}
+
+.tab .tab-label {
+    -fx-text-fill: #e0e0e0;
+}
+
+.list-view {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.list-cell {
+    -fx-background-color: inherit;
+    -fx-border-color: inherit;
+}
+
+.list-cell:odd {
+    -fx-background-color: inherit;
+}
+
+.list-cell:selected {
+    -fx-background-color: inherit;
+} 

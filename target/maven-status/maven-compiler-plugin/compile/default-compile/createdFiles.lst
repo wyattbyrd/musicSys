@@ -1,0 +1,8 @@
+com\music\dao\SongDao.class
+com\music\dao\UserDao.class
+com\music\window\LoginDialog.class
+com\music\pojo\User.class
+com\music\window\MainWindow.class
+com\music\pojo\Song.class
+com\music\window\SongEdit.class
+com\music\dao\JDBC.class
